@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="5" y="5" width="109" height="185"/>
+	<SubTexture name="blue select0000" x="119" y="5" width="137" height="192"/>
+	<SubTexture name="green0000" x="261" y="5" width="109" height="185"/>
+	<SubTexture name="green select0000" x="375" y="5" width="137" height="192"/>
+	<SubTexture name="red0000" x="517" y="5" width="109" height="185"/>
+	<SubTexture name="red select0000" x="631" y="5" width="137" height="192"/>
+	<SubTexture name="yellow0000" x="773" y="5" width="109" height="185"/>
+	<SubTexture name="yellow select0000" x="5" y="202" width="137" height="192"/>
+</TextureAtlas>
